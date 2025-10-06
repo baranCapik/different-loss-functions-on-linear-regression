@@ -19,7 +19,7 @@ Math Explanation
 
 I made chatgpt write the functions i used, later i will upload a full paper on this.
 
-- Linear function
+###Linear function
     1. ŷ = m·x + b (for one label and one feature)
     
 - L2 and L1 loss functions
